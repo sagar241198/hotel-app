@@ -1,0 +1,31 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.bg{
+  background-color: #04204e;
+  
+}
+/* .fixed{
+  width: 100%;
+  position: fixed;
+  top:0px;
+  color: white;
+  z-index:1;
+} */
+.navbar-brand{
+  font-weight: bold;
+  font-size: 28px;
+}
+.border-right{
+  border-right: 1px solid white;
+}
+label{
+  font-size: 13px;
+}
+.Cardimg :hover{
+  z-index: 5;
+  width: 500px; 
+  height: 300px;
+  shape-outside: margin-box;
+}
